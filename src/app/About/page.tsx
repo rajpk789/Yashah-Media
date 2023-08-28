@@ -53,7 +53,6 @@ export default function page() {
             </div>
           </div>
         </div>
-
       </main>
     </>
   )
