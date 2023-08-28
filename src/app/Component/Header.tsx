@@ -27,7 +27,7 @@ const menuItem = [
 
 export default function Home() {
     return (
-        <main className="container bg-slate-400">
+        <main className="container">
 
             <header className="flex justify-between px-8">
                 <div className="p-2 w-46 flex items-center">
