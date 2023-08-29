@@ -23,7 +23,7 @@ export default function Home() {
             <p className="">Designing and developing custom websites for businesses, including e-commerce sites, landing pages, and mobile-responsive designs. Search engine optimization (SEO) - optimizing websites to improve search engine rankings and visibility.</p>
             <button className="p-3 my-2 text-white bg-orange-400 border-2">KNOW MORE =</button>
           </div>
-          <div className=" p-4">
+          <div className="p-4">
             <img className="w-20" src="sv.png" alt="" />
             <h1 className="text-2xl font-bold pb-4">Website design and development</h1>
             <p className="">Designing and developing custom websites for businesses, including e-commerce sites, landing pages, and mobile-responsive designs. Search engine optimization (SEO) - optimizing websites to improve search engine rankings and visibility.</p>
