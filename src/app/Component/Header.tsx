@@ -4,7 +4,7 @@ import Link from "next/link";
 const menuItem = [
     {
         name: 'Home',
-        link: '/home'
+        link: '/Home'
     },
     {
         name: 'About',
@@ -27,7 +27,7 @@ const menuItem = [
 
 export default function Home() {
     return (
-        <main className="container">
+        <main className=" sticky-top bg-white">
 
             <header className="flex justify-between px-8">
                 <div className="p-2 w-46 flex items-center">
