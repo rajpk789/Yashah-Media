@@ -12,11 +12,11 @@ const menuItem = [
     },
     {
         name: 'Product',
-        link: '/product'
+        link: '/Products'
     },
     {
         name: 'Contact Us',
-        link: '/contact'
+        link: '/Contact'
     },
     {
         name: 'Login',
@@ -31,7 +31,7 @@ export default function Home() {
 
             <header className="flex justify-between px-8">
                 <div className="p-2 w-46 flex items-center">
-                 <Link href={""}>   <img className="" src="./logo.png" alt="" /></Link>
+                 <Link href={"Home"}>   <img className="" src="./logo.png" alt="" /></Link>
                 
 
                 </div>

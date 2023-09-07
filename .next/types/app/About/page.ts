@@ -1,4 +1,4 @@
-// File: D:\react\Yashah-Media\src\app\About\page.tsx
+// File: E:\react\Yashah-Media\src\app\About\page.tsx
 import * as entry from '../../../../src/app/About/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
