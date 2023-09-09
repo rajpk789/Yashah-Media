@@ -20,14 +20,14 @@ const menuItem = [
     },
     {
         name: 'Login',
-        link: '/login'
+        link: '/Login'
     }
 
 ]
 
 export default function Home() {
     return (
-        <main className=" sticky-top bg-white">
+        <main className=" sticky-top bg-white container-fluid">
 
             <header className="flex justify-between px-8">
                 <div className="p-2 w-46 flex items-center">
